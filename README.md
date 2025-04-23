@@ -31,9 +31,9 @@ A fullstack e-commerce platform for a local organic farmer, built with **Java**,
 
 ---
 organic-farm-shop/
-  -├── backend/      # Spring Boot API
-  -├── frontend/     # React web app
-  -└── docs/         # Architecture, diagrams, notes
+- ├── backend/      # Spring Boot API
+- ├── frontend/     # React web app
+- └── docs/         # Architecture, diagrams, notes
 ---
 
 
